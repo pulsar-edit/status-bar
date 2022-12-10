@@ -47,8 +47,5 @@
       "default": "(%L, %C)",
       "description": "Format for the selection count status bar element, where %L is the line count and %C is the character count"
     }
-  },
-  "devDependencies": {
-    "coffeelint": "^1.9.7"
   }
 }
