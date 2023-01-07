@@ -1,3 +1,5 @@
+# This repo is Archived under Pulsar-Edit. As it's now Bunlded into the Core Editor [PR#314](https://github.com/pulsar-edit/pulsar/pull/314)
+
 # Status Bar package
 
 Display information about the current editor such as cursor position, file path, grammar, current branch, ahead/behind commit counts, and line diff count.
